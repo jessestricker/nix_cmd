@@ -1,0 +1,10 @@
+[package]
+name = "nix_cmd"
+version = "0.1.0"
+authors = ["Jesse Stricker"]
+edition = "2021"
+rust-version = "1.56"
+description = "A binding to the Nix command line application."
+license = "MIT"
+keywords = ["binding", "cli", "command-line", "nix"]
+categories = ["api-bindings"]
